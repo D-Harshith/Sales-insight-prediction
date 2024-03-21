@@ -1,1 +1,1 @@
-# Sales-insight-prediction
+The Sales Insight Prediction project aims to empower sales teams with data-driven decision-making capabilities by unlocking valuable insights from sales data. Leveraging the power of POWER BI, this project provides an automated dashboard that offers quick and up-to-date sales insights, enabling informed decision-making processes.
